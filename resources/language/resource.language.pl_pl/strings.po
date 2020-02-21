@@ -1187,4 +1187,4 @@ msgstr ""
 
 msgctxt "#30730"
 msgid "Play (Ask for quality)"
-msgstr ""
+msgstr "Odtwórz (Pytaj o jakość)"
